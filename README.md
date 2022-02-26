@@ -1,6 +1,6 @@
 # Inside Airbnb
 
-This project aims to predict prices and/or availability of Airbnbs in the city of Amsterdam.
+This project aims to predict prices and/or availability of Airbnbs in the city of Amsterdam using OLS and XGBoost.
 
 The dataset is sourced from http://insideairbnb.com/get-the-data.html.
 
